@@ -55,4 +55,6 @@ dependencies {
     implementation("com.google.firebase:firebase-analytics")
     implementation("com.google.firebase:firebase-crashlytics")
 
+    // third Party lib
+        implementation("com.github.pwittchen:reactivenetwork-rx2:3.0.8")
 }
